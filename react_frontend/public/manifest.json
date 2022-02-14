@@ -1,0 +1,15 @@
+{
+  "short_name": "Covid Shark",
+  "name": "Covid Shark Web App by Lovelace",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
